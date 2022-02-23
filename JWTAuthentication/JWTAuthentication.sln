@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTAuthentication", "JWTAuthentication\JWTAuthentication.csproj", "{A2B51A37-2819-448C-9DFC-853588615185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login4", "Login4\Login4.csproj", "{9B2133F8-DC4C-4825-89AB-5D26C71DC5B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B51A37-2819-448C-9DFC-853588615185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B51A37-2819-448C-9DFC-853588615185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B51A37-2819-448C-9DFC-853588615185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B51A37-2819-448C-9DFC-853588615185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2133F8-DC4C-4825-89AB-5D26C71DC5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2133F8-DC4C-4825-89AB-5D26C71DC5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2133F8-DC4C-4825-89AB-5D26C71DC5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2133F8-DC4C-4825-89AB-5D26C71DC5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6894904F-C06B-4940-896D-B7956AB0054D}
+	EndGlobalSection
+EndGlobal
